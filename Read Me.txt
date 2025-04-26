@@ -1,0 +1,83 @@
+=======================================
+ST. ROASTERY – COFFEE SHOP HTML TEMPLATE
+=======================================
+
+Thank you for purchasing this template! ☕
+This is a fully customizable HTML website designed for cafes, coffee shops, or personal brands.
+
+---------------------------
+📁 FILE STRUCTURE
+---------------------------
+index.html          - Main HTML file
+style.css           - All styling/customization
+script.js           - JavaScript for interaction
+/images/            - Folder for all images used
+
+---------------------------
+✅ HOW TO EDIT
+---------------------------
+1. Open "index.html" in any browser to preview.
+2. Use any text editor (Notepad, VS Code, Sublime) to edit.
+3. Change headings, text, and links directly in the HTML file.
+4. Replace images in the /images folder. Use same file name OR update image path in HTML.
+
+Example:
+<img src="images/latte.jpg" alt="Latte Art">
+
+5. To edit styles (colors, fonts, spacing), open style.css.
+
+Example:
+body {
+    background-color: #f5f5f5;
+}
+
+---------------------------
+✨ FEATURES
+---------------------------
+- Mobile responsive (Bootstrap 5.3)
+- Font Awesome Icons included
+- Hero section with image and CTA
+- Featured coffee section
+- About Us section
+- Promo & updates area
+- Newsletter / signup forms (HTML only)
+- Social media footer
+- Clean layout and modern design
+
+---------------------------
+🧩 CUSTOMIZATION TIPS
+---------------------------
+- Change brand name/logo: Edit <a class="navbar-brand"> in index.html
+- Edit menu items: Search for <section id="menu">
+- Replace images: Put new files in /images and match filename
+- Footer info: Edit under <footer> tag in index.html
+
+---------------------------
+📩 FORMS
+---------------------------
+The forms are static and for design only.
+To make them work, connect to:
+- Mailchimp
+- Google Forms
+- Formspree
+- Or your own server/backend
+
+---------------------------
+📣 TERMS OF USE
+---------------------------
+✅ You can:
+- Use this for personal or business websites
+- Customize it freely
+
+❌ You can't:
+- Resell the exact template without changes
+- Claim the original design as your own
+
+---------------------------
+💬 SUPPORT
+---------------------------
+If you need help, feel free to contact:
+[your email or Instagram handle here]
+
+Enjoy building your website!
+- St. Roastery Template
